@@ -1,7 +1,7 @@
 package Package1;
 
 public class AirthmaticEquation1 {
-	//(((((10+2)*2)-2)*2)/2)
+	//(((((10+2)*2)-2)*2)/2) akhlesh malav
 	
 	public int sum(int a, int b)
 	{
