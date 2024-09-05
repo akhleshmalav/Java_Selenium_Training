@@ -2,6 +2,7 @@ package Package1;
 
 public class AirthmaticEquation1 {
 	//(((((10+2)*2)-2)*2)/2) akhlesh malav first commit thid  
+	//This is commit test data
 	
 	public int sum(int a, int b)
 	{
